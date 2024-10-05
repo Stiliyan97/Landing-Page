@@ -171,4 +171,14 @@ p.contact-title {
     border-radius: 6px;
 }
 
+.footer {
+    height: 70px;
+    background-color: #1F2937;
+    color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
